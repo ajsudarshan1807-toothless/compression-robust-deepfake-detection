@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+ENV*/
+
+# Environments & IDEs
+.idea/
+.vscode/
+.agents/
+.claude/
+*.swp
+*.swo
+
+# Datasets and heavy media
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/videos/*
+!data/videos/.gitkeep
+*.mp4
+*.avi
+*.mov
+
+# Heavy model checkpoints and weights (>100MB exceeds GitHub limit)
+checkpoints/*
+!checkpoints/.gitkeep
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+*.h5
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store

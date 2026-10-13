@@ -1,0 +1,16 @@
+Global Image Dataset (HF: facefake):
+Real images: 5000
+Fake images: 5000
+Total: 10000
+
+Global Video Dataset (HF: deepfake-video):
+Real videos: 200
+Fake videos: 200
+Total: 400
+
+WhatsApp Fine-Tuning Split (User Data):
+Real images: 13
+Fake images: 7
+Real videos: 5
+Fake videos: 3
+Total: 28

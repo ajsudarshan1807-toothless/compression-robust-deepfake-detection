@@ -1,0 +1,13 @@
+torch
+torchvision
+facenet-pytorch
+pywavelets
+opencv-python
+pillow
+scikit-learn
+pandas
+numpy
+matplotlib
+streamlit
+tqdm
+datasets
